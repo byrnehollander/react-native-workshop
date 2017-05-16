@@ -1,5 +1,19 @@
 # react-native-workshop
 
+## My comments
+
+The workshop had us doing things too early (like importing video list before exporting it) so things were just constantly broken along the way and not sure if I did things right at each step. I ended up skipping ahead and filling in as much as I could and then went back to see if it worked. I also had to delete some comments to fix some errors.
+
+## Screenshots
+
+![](images/featured.png)
+
+![](images/search.png)
+
+![](images/earlier.png)
+
+# from workshop
+
 Today we'll be using react-native to build a simple iOS app that allows us to search YouTube (just like short assignment 4, way back when.)
 
 Note: for this workshop, you don't need to clone or fork this repo. Everything we do will be done locally.
